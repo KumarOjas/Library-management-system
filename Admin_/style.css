@@ -1,10 +1,4 @@
-/* 
-html5doctor.com Reset Stylesheet
-v1.6.1
-Last Updated: 2010-09-17
-Author: Richard Clark - http://richclarkdesign.com 
-Twitter: @rich_clark
-*/
+
 
 html, body, div, span, object, iframe,
 h1, h2, h3, h4, h5, h6, p, blockquote, pre,
@@ -58,14 +52,14 @@ vertical-align:baseline;
 background:transparent;
 }
 
-/* change colours to suit your needs */
+
 ins {
 background-color:#ff9;
 color:#000;
 text-decoration:none;
 }
 
-/* change colours to suit your needs */
+
 mark {
 background-color:#ff9;
 color:#000; 
@@ -87,7 +81,6 @@ border-collapse:collapse;
 border-spacing:0;
 }
 
-/* change border colour to suit your needs */
 hr {
 display:block;
 height:1px;
@@ -101,7 +94,6 @@ input, select {
 vertical-align:middle;
 }
 
-/*-------------------------------Main code   INDEX ---------------------------------------------------------*/
 
 .wrapper
 {
@@ -201,7 +193,7 @@ input
 	width: 300px;
 
 }
-/*------------------------------registration--------------------*/
+
 .reg_img
 {
 	height: 630px;
