@@ -1,5 +1,51 @@
-# Library-management-system
-This is a database management system project that has been built as a part of my second year project. 
-Library management system  is a project which aims in developing a computerized system to maintain all the daily work of a library.
-The system helps both students and library and library manager to keep a constant track of all the books available in the library.
-The main feature of this system is that all the books available in yhe library can be displayed in a list so that students need not roam through the entire library to find a book.Additionally the application is effectively maintains the details of users to whom books have been issued.
+Abstract:Library management system    
+The main objective of Online Library Management System is developing a computerized system to maintain all the daily work of the library. It has two sides –
+User side (student / teacher).
+ Admin side.
+Only registered users can get every facility of this website.
+They can log in to their account and see their personal information and modify them.
+They can search for a book by the name or search it in a particular department.
+They can easily order a book.
+After the admin approve it they can see the issue and return date beside the book name.
+An automatic timer will set up on the user’s id. It’ll show how much time left until the return date.
+If they need more time they can send a message to the admin.
+Also, there is a public comment section where registered users can comment on their suggestions and can ask questions.
+
+On the other hand admin can-
+see which student is online right now.
+see all the student information.
+add new books & delete a book from the list.
+send a notification to students before their return date and they can also communicate through message.
+reply in the comment box.
+
+There is a page where all the information of the student is available who has borrowed a book with the return date.
+
+Overall Web-based Library Management System is a project to help the students as well as the staff of the library to maintain the library in the best way possible and also to reduce the human efforts.
+Then follow these steps-
+Step 1:
+First, go to the database panel.
+
+
+Step 2:
+Then create a database. Write the name "library" like this. If you write a different name you need to change the connection.php code too because we've connected a database named library in our code.
+
+
+Step 3:
+Then from the side panel go to the library database that you just created. Then click on "Import".
+
+
+Step 4:
+Then choose the library.sql file from your computer where you've saved it after downloading.
+
+
+Step 5: 
+Select the format SQL and press Go.
+
+
+
+That's it. Now start your website and register some user and check it it's working properly.
+
+
+
+
+
