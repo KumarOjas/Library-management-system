@@ -1,4 +1,4 @@
-Abstract:Library management system    
+Library management system :-   
 The main objective of Online Library Management System is developing a computerized system to maintain all the daily work of the library. It has two sides –
 User side (student / teacher).
  Admin side.
